@@ -1,5 +1,1 @@
-hola
-haciendo
-practica
-usando
-git y github
+Hola, Soy Javier Galvez
